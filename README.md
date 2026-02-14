@@ -1,2 +1,2 @@
 # initial-setup
-Repository for git setup, <Tahir Husain>
+Repository for git setup, Tahir Husain
